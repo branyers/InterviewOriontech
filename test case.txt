@@ -1,0 +1,15 @@
+// Test Case Probar Input 
+
+//Acciones
+1. Abrir la applicacion en el navegador aputando al URL Factorial Calculator
+2. Validar que el input este disponible en la pantalla
+3. validar que al presionar enter me lanze los resultados
+4. Validar que el boton calculate me lanze los resultados al presionarlo
+5. Validar que el resultado obtenido sea igual que al esperado
+
+
+
+// Test Case Probar Enlaces
+1. validar que puedo dar click a 'Term and Conditions'
+2. Validar que puedo dar click a 'Privacy'
+9. validar que puedo dar click a 'Qxf2 Services'
